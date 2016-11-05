@@ -17,8 +17,18 @@ css: ['sidebar-post-nav.css']
         </div>
         {% else %}
         <div class="col-md-8 markdown-body">
-
+            <!-- Main Content -->
             {{ content }}
+
+            <!-- ip declaration -->
+            <div>
+                {% include ip.html %}
+            </div>
+
+            <!-- social -->
+            <div class="share">
+                {% include sns-share.html %}
+            </div>
 
             <!-- Comments -->
             {% include disqus-comments.html %}
