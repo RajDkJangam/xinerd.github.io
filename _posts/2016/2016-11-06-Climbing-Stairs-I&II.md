@@ -3,7 +3,7 @@ layout: post
 title: Climbing Stairs 爬楼梯
 categories: [Dynamic Programming, 动态规划]
 description: 假设你正在爬楼梯，需要n步你才能到达顶部。但每次你只能爬一步或者两步，你能有多少种不同的方法爬到楼顶部？
-keywords: dp, dynamic programming, 动态规划, 动归, 滚动数组
+keywords: 总方案数, 动态规划, 动归, 滚动数组, dp, dynamic programming
 ---
 
 # Climbing Stairs 爬楼梯
