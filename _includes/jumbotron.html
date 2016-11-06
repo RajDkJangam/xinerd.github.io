@@ -15,6 +15,12 @@
                         <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
                     </span>
                 {% endfor %}
+                {% for keyword in page.keywords %}
+                    <span class="meta-info">
+                        <span class="octicon octicon-tag"></span>
+                        {{ keyword }}
+                    </span>
+                {% endfor %}
             </span>
         </div>
     </div>
