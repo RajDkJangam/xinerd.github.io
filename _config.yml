@@ -10,7 +10,7 @@
 #   Site Settings  #
 # ---------------- #
 baseurl:
-url: https://github.com/xinerd # the base hostname & protocol for your site
+url: https://xinerd.github.io # the base hostname & protocol for your site
 date_format: "ordinal"
 title: 启明星
 subtitle: "算法，数据结构"
