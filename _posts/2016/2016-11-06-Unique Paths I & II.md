@@ -2,7 +2,7 @@
 layout: post
 title: Unique Paths 不同的路径 I & II
 categories: [Dynamic Programming, 动态规划]
-description: 
+description: 机器人每一时刻只能向下或者向右移动一步，问有多少种方案走到右下角。
 keywords: dp, dynamic programming, 动态规划, 动归
 ---
 
@@ -162,6 +162,7 @@ public class Solution {
 
 # 相关问题列表 
 * Unique Paths I, II
+* Clibing Stairs I, II
 
 # Reference 
 Leetcode, Lintcode
