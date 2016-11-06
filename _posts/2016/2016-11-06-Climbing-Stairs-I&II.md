@@ -90,6 +90,8 @@ public class Solution {
 
 通过这样优化后空间复杂度为O(1)。 
 
+# 练习 Clibing Stairs II
+思路和I基本一样，可当作额外练习。
 
 # 相关问题列表 
 * Unique Paths I, II
