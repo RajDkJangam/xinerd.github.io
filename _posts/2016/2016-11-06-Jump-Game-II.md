@@ -6,7 +6,7 @@ description: 给出一个非负整数数组，你最初定位在数组的第一�
 keywords: 最小值, 贪心, 动态规划, 动归, dp, dynamic programming
 ---
 
-# 问题 
+# Jump Game II 跳跃游戏 II 
 **中文**
 给出一个非负整数数组，你最初定位在数组的第一个位置。
 
