@@ -59,6 +59,6 @@ f[1] =
 * 
 
 # Reference 
-Leetcode, Lintcode
+[Leetcode](https://leetcode.com/), [Lintcode](http://www.lintcode.com/), [Jiuzhang](www.jiuzhang.com)
 
 
