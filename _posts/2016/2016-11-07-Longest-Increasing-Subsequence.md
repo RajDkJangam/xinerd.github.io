@@ -98,12 +98,13 @@ public class Solution {
 
 # 优化
 有一种二分的方式可以用来优化时间复杂度，这里没有研究。
+[二分法O(nlogn)](http://www.jiuzhang.com/solutions/longest-increasing-subsequence/)
 
 
 # 相关问题列表 
 * Jump Game II
 
 # Reference 
-Leetcode, Lintcode
+[Leetcode](https://leetcode.com/), [Lintcode](http://www.lintcode.com/), [Jiuzhang](http://www.jiuzhang.com)
 
 
