@@ -6,7 +6,7 @@ description: 给出两个字符串，找到最长公共子序列(LCS)，返回LC
 keywords: LCS, 最大值, two sequence dp, dynamic programming, 动态规划, 动归
 ---
 
-# 最长公共子序列 
+# Longest Common Subsequence 最长公共子序列
 **中文**
 给出两个字符串，找到最长公共子序列(LCS)，返回LCS的长度。
 
