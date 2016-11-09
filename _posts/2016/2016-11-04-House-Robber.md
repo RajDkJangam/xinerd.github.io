@@ -1,7 +1,7 @@
 ---
 layout: post
 title: House Robber 打劫房屋 
-categories: [Dynamic Programming, 动态规划]
+categories: [Dynamic Programming]
 description: 假设你是一个专业的窃贼，准备沿着一条街打劫房屋。每个房子都存放着特定金额的钱。你面临的唯一约束条件是：相邻的房子装着相互联系的防盗系统，且当相邻的两个房子同一天被打劫时，该系统会自动报警。
 keywords: 最大值, 动态规划, 动归, 滚动数组, dp, dynamic programming
 ---

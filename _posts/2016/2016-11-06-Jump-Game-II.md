@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jump Game II 跳跃游戏 II
-categories: [贪心, Dynamic Programming, 动态规划]
+categories: [Greedy, Dynamic Programming]
 description: 给出一个非负整数数组，你最初定位在数组的第一个位置。数组中的每个元素代表你在那个位置可以跳跃的最大长度。你的目标是使用最少的跳跃次数到达数组的最后一个位置。
 keywords: 最小值, 贪心, 动态规划, 动归, dp, dynamic programming
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Longest Increasing Subsequence 最长上升子序列
-categories: [Dynamic Programming, 动态规划]
+categories: [Dynamic Programming]
 description: 给定一个整数序列，找到最长上升子序列（LIS），返回LIS的长度。
 keywords: LIS, 最大值, dp, dynamic programming, 动态规划, 动归
 ---

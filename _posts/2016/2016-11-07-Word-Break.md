@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Word Break 单词切分
-categories: [Dynamic Programming, 动态规划]
+categories: [Dynamic Programming]
 description: 给出一个字符串s和一个词典，判断字符串s是否可以被空格切分成一个或多个出现在字典中的单词。
 keywords: 单序列dp, dynamic programming, 动态规划, 动归
 ---
